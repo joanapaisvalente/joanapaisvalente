@@ -12,7 +12,7 @@ I am now a dev @ CTW in Portugal, but have a background in Criminology, so I hav
 
 #
 ### Lets get down to business, to defeat, the bugs
-<img src="https://i.gifer.com/2Ixu.gif" style="width:400px;"/>
+<img src="https://allears.net/wp-content/uploads/2020/12/shang-mulan-gif.gif"/>
 Liked what I did there? hehe
 
 **Anyway, here is a list of the technologies I have worked / am working with:**
