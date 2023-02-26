@@ -12,7 +12,7 @@ I am now a dev @ CTW in Portugal, but have a background in Criminology, so I hav
 
 #
 ### Lets get down to business, to defeat, the bugs
-![Shang from mulan](https://i.gifer.com/2Ixu.gif)
+<img src="https://i.gifer.com/2Ixu.gif" style="width:400px;"/>
 Liked what I did there? hehe
 
 **Anyway, here is a list of the technologies I have worked / am working with:**
