@@ -16,3 +16,4 @@ I am now a dev @ CTW in Portugal, but have a background in Criminology, so I hav
 Liked what I did there? hehe
 
 **Anyway, here is a list of the technologies I have worked / am working with:**
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
