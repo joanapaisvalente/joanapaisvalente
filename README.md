@@ -17,4 +17,4 @@ Liked what I did there? hehe
 
 **Anyway, here is a list of the technologies I have worked / am working with:**
 
-<img style="width:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img style="width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
